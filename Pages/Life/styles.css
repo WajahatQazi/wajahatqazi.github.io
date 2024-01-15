@@ -563,7 +563,7 @@ border-radius: 10px;
 .profile{
         width: 1000px;
     height: auto;
-    margin-top: -9%;
+    margin-top: 0%;
     margin-left: -14px;
     justify-content: left;
     -webkit-filter: grayscale(100%);
