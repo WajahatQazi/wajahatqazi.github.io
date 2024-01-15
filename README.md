@@ -1,0 +1,2 @@
+# wajahatqazi.github.io
+Portfolio
