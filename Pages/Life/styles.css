@@ -282,8 +282,9 @@ p{
     font-size: 400%;
     margin-bottom: 1%;
     line-height: 1;
+
     background-image: linear-gradient(to right,#E21143, #FFB03A);
-    -webkit-background-clip: text;
+   -webkit-background-clip: text;
     color: transparent;
     line-height: 1.5;
     padding-right: 3%;
@@ -344,7 +345,7 @@ span{
     font-family: Raleway,sans-serif;
     margin-top: 20%;
     background-image: linear-gradient(60deg, #8a2387,#e94057,#f27121);
-    background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
 }
 
@@ -371,7 +372,7 @@ span{
     line-height: 1.5;
     padding-right: 3%;
     background-image: linear-gradient(to right,#E21143, #FFB03A);
-    background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
     margin-top:-3%;
 }
@@ -459,7 +460,7 @@ footer{
 
 .icon-bar3:hover{
    background-image: linear-gradient(to right,#E21143, #FFB03A);
-    background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
 }
 
