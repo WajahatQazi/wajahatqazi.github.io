@@ -283,7 +283,7 @@ p{
     margin-bottom: 1%;
     line-height: 1;
     background-image: linear-gradient(to right,#E21143, #FFB03A);
-    background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
     line-height: 1.5;
     padding-right: 3%;
